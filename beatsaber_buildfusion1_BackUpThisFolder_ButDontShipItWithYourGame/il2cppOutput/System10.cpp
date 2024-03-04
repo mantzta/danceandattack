@@ -1,0 +1,2598 @@
+﻿#include "pch-cpp.hpp"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include <limits>
+
+
+
+// System.IntPtr[]
+struct IntPtrU5BU5D_tFD177F8C806A6921AD7150264CCC62FA00CAD832;
+// System.Diagnostics.StackTrace[]
+struct StackTraceU5BU5D_t32FBCB20930EAF5BAE3F450FF75228E5450DA0DF;
+// System.Type[]
+struct TypeU5BU5D_t97234E1129B564EB38B8D85CAC2AD8B5B9522FFB;
+// System.Net.Configuration.AuthenticationModulesSection
+struct AuthenticationModulesSection_t3A675E838686A766DCE07BEAB36EA46A62316C69;
+// System.Reflection.Binder
+struct Binder_t91BFCE95A7057FADF4D8A1A342AFE52872246235;
+// System.Configuration.Configuration
+struct Configuration_t76590F71F1AB7F5CC4BCC02EC0CDBF4449CDAEC1;
+// System.Configuration.ConfigurationElement
+struct ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E;
+// System.Configuration.ConfigurationPropertyCollection
+struct ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93;
+// System.Net.Configuration.ConnectionManagementSection
+struct ConnectionManagementSection_t8F4D45BE147F24F54F2124CC800B4594031F41C2;
+// System.Net.Configuration.DefaultProxySection
+struct DefaultProxySection_tC0247A534955DC9D887B03AA4EFB1C1E01AD1E34;
+// System.Diagnostics.DiagnosticsConfigurationHandler
+struct DiagnosticsConfigurationHandler_t0C4B611E2C6EA17B288C43070FAF65F96DCA96E7;
+// System.Net.Configuration.FtpCachePolicyElement
+struct FtpCachePolicyElement_t12FAC54618469F19DD0D3AF0486F173A540D7F2D;
+// System.Net.Configuration.HttpCachePolicyElement
+struct HttpCachePolicyElement_t6DC6A3BE41501894BA9B880CD58048B6AC7929D7;
+// System.Net.Configuration.HttpListenerElement
+struct HttpListenerElement_t559D7C83361157D2F59976CF87A8D8CD7DC5CF27;
+// System.Net.Configuration.HttpWebRequestElement
+struct HttpWebRequestElement_t8D2FEEC531D1FBE1B6E3D1077350A1EBDCB77DC3;
+// System.Collections.IDictionary
+struct IDictionary_t6D03155AF1FA9083817AA5B6AD7DEEACC26AB220;
+// System.Net.Configuration.Ipv6Element
+struct Ipv6Element_t480208D0E23E612DC1FD1CE19D9FB491F0F66932;
+// System.Net.Configuration.MailSettingsSectionGroup
+struct MailSettingsSectionGroup_tF4FBFB4BD7658F6EB57894999F3B7F467F7C8426;
+// System.Reflection.MemberFilter
+struct MemberFilter_tF644F1AE82F611B677CE1964D5A3277DDA21D553;
+// System.Net.Configuration.NetSectionGroup
+struct NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F;
+// System.Net.Configuration.PerformanceCountersElement
+struct PerformanceCountersElement_tCB62C8CA7C218E35653DC5BB690A5FFD6D608B30;
+// System.PlatformNotSupportedException
+struct PlatformNotSupportedException_tD2BD7EB9278518AA5FE8AE75AD5D0D4298A4631A;
+// System.Net.Configuration.RequestCachingSection
+struct RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4;
+// System.Runtime.Serialization.SafeSerializationManager
+struct SafeSerializationManager_tCBB85B95DFD1634237140CD892E82D06ECB3F5E6;
+// System.Net.Configuration.ServicePointManagerElement
+struct ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2;
+// System.Net.Configuration.SettingsSection
+struct SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12;
+// System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement
+struct SmtpSpecifiedPickupDirectoryElement_tB884FF2CF82666E01FEB0C50F909B68367868F9D;
+// System.Net.Configuration.SocketElement
+struct SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6;
+// System.String
+struct String_t;
+// System.Type
+struct Type_t;
+// System.Void
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915;
+// System.Net.Configuration.WebProxyScriptElement
+struct WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167;
+// System.Net.Configuration.WebRequestModuleElement
+struct WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD;
+// System.Net.Configuration.WebRequestModuleElementCollection
+struct WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463;
+// System.Net.Configuration.WebRequestModulesSection
+struct WebRequestModulesSection_t4099F9890D7851314C5528C577E4C51B36C97D00;
+// System.Net.Configuration.WebUtilityElement
+struct WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0;
+// System.Net.Configuration.WindowsAuthenticationElement
+struct WindowsAuthenticationElement_tC96EDD442C67FE43F7F3B3EDC9BAFB7C9009E13B;
+// System.Xml.XmlNode
+struct XmlNode_t3180B9B3D5C36CD58F5327D9F13458E3B3F030AF;
+// System.Xml.XmlReader
+struct XmlReader_t4C709DEF5F01606ECB60B638F1BD6F6E0A9116FD;
+
+IL2CPP_EXTERN_C RuntimeClass* PlatformNotSupportedException_tD2BD7EB9278518AA5FE8AE75AD5D0D4298A4631A_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C const RuntimeMethod* DiagnosticsConfigurationHandler_Create_mF21B1CC68B87DE078690B2B493FCDC5F728CBAAB_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* DiagnosticsConfigurationHandler__ctor_mDFB0000E6218840F66D21BB6C9BF3F647CCBC5A3_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* NetSectionGroup_GetSectionGroup_mB365D84045B47F37CBC51B19FA4FCF7789A40534_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* NetSectionGroup__ctor_mCD2F0DC2B9F0C6C346BC91BD8750C7111A9528AC_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* NetSectionGroup_get_AuthenticationModules_m2266B92D456F596482FD58A66564A8C66CE0678E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* NetSectionGroup_get_ConnectionManagement_m9CBE0E2AA629807E547E71A42677666403F75B0A_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* NetSectionGroup_get_DefaultProxy_mDFB16FD78D6F16272B868DECAD4B2D6CA0029626_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* NetSectionGroup_get_MailSettings_m061EF5997B2ADC36605125874A9EBCD336E155C6_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* NetSectionGroup_get_RequestCaching_m1C4D250A58F7E58E392D5293B850E54E516F1980_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* NetSectionGroup_get_Settings_m9478377C3C07EF944C6B3428CE7DA1D90E0C05E4_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* NetSectionGroup_get_WebRequestModules_m55EBE5D63BE2FBF4FDB47B38AF880F9175EB40EE_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* PerformanceCountersElement__ctor_m9537195CBC7DC607F7253D06E7B6B1090456E68F_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* PerformanceCountersElement_get_Enabled_m5BE4C7AE4BDE434A3E8FD4F6223461F721C1612E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* PerformanceCountersElement_get_Properties_m7C16FBC3E915E8384FB4409209628737B1537C9B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* PerformanceCountersElement_set_Enabled_m4FCE96FC62C5580EBC92E771B79B56CDD0644540_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_DeserializeElement_m0FC0D231EA5E20DC3FC6F6850876A0447C2845EB_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_PostDeserialize_m9341CDB5931002D76B1CD38A4D60A732549A6A39_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection__ctor_m492CDBD5071E558E611DB3B464D3406BC468532D_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_get_DefaultFtpCachePolicy_m6156411957E4B580665E24F646C55EEFB9C03D91_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_get_DefaultHttpCachePolicy_mCC1951084BD1753884DC700D760B49F900D3F810_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_get_DefaultPolicyLevel_mC5EC2F5BBC31CF2F1D5E9AC1EA1BA34A29E662FB_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_get_DisableAllCaching_m880E1629352AC0B9AF4C6DFD2A4FA472ACC7483B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_get_IsPrivateCache_m51BD06919A5DB7FBEBC7489725B16F6448B7F43A_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_get_Properties_m380A033BF2302CEE41A9C4D05793205AFCAE1310_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_get_UnspecifiedMaximumAge_m68CAC1EB7E24A3DA7A5B9A21FAD75437F7B65CB2_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_set_DefaultPolicyLevel_mCE38163685856A75D3994722D7FBDFE2C8A04756_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_set_DisableAllCaching_m7D9FD5D20A4972B47C1E7DD938888F49D392000A_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_set_IsPrivateCache_m23E1E9635F532065DC3FF8D3D2209C960AFA2DAD_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* RequestCachingSection_set_UnspecifiedMaximumAge_m383C4C9177D2D84452BA03C2434683291207DEE8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_PostDeserialize_m902512F2562E0505AD50E93F1FB8F0B97C2B6727_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement__ctor_m0F1CF21589CA283DA734A472930A9665698B2D36_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_get_CheckCertificateName_m93EF583F234799FD3457FD347F064866FBA1C83F_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_get_CheckCertificateRevocationList_m7A72730A6EB04CC11953189E20B9DA39B8B9D812_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_get_DnsRefreshTimeout_mCA5740E1DA151B21CF5D20E0B98C6139FACFDDB5_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_get_EnableDnsRoundRobin_m6A1AD9A4FE669AC18D9196910B524D2FFD6CC2C0_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_get_EncryptionPolicy_mF3805EB4253D2329369D5228A6D6FBA77FFBBDB3_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_get_Expect100Continue_m991850D531870E8360F07ADCF8C2F459584EC5AF_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_get_Properties_m70469523AAD1A2C2E9D4F90DDA1BA619FCE68B58_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_get_UseNagleAlgorithm_mBA586932F9FDE593CBE69B8D67A6A6ED48338165_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_set_CheckCertificateName_m530AEAE236C8B6ADB4C372F8680F36EFAE663846_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_set_CheckCertificateRevocationList_m8958E8118076E0E7198754FA5C1F1529A98843DE_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_set_DnsRefreshTimeout_m2B262BA9203F2F413FB4DB5421D404DFC083B704_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_set_EnableDnsRoundRobin_m4E2674CD115E2089DDFA420AB61031435353D539_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_set_EncryptionPolicy_m9FA825DC4CCF6D1B1A9D57DD68056D9665EAA2DA_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_set_Expect100Continue_mAE30C444FD6987C2389C5F89CF448D6F5EEBDBFD_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ServicePointManagerElement_set_UseNagleAlgorithm_m00139235D683F5DC58D2D954A7F39A0A4DD429E0_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection__ctor_mBD94E7E098221DC09775A3AE1713930F6820D242_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_HttpListener_mED29DE54BD03661334A79DCD3CF4B09E0C851CE6_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_HttpWebRequest_mBE81AA51E269D29FE517F6B8F475FB52984F2A23_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_Ipv6_mA006DD8D732839D151E44C1B68C05309937AC30E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_PerformanceCounters_mCFA1A5F427054AE2AA39602892AC6F0BE7FFCD53_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_Properties_mA774C9C884F4AD5DEC2BBE31DF7E35CAC71EBF8F_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_ServicePointManager_m07C0AE14661EC5866ECF56566C7C36831F9D597A_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_Socket_mE77BF68792B0B1479FCB1E349AD470A8A9DCE171_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_WebProxyScript_m466A2A9AA8357CBF233FCDEF201B2B5EFBAAAAF5_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_WebUtility_m2D1E31AA087C50BB1CCE762E516253AB2D6BD3B8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SettingsSection_get_WindowsAuthentication_m10A9B3260BB9FFF3213A77218772DFFC4F8B9BDB_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SmtpSpecifiedPickupDirectoryElement__ctor_m778F796D9EDE9516D87202371364C21829EF7B0E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SmtpSpecifiedPickupDirectoryElement_get_PickupDirectoryLocation_m8FF4EBED8D7966329F958F8C69EEBB98F6B2279F_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SmtpSpecifiedPickupDirectoryElement_get_Properties_m2F90A06B9600227CB386C97264FBBCE4AC8146BE_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SmtpSpecifiedPickupDirectoryElement_set_PickupDirectoryLocation_m14A0A9864A55416BB0F0F1E02003A61382D14C76_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SocketElement_PostDeserialize_m5312655E1CFAC9B0B24769CFFA11CE8DC5D6A366_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SocketElement__ctor_m4FB4C851F1BB20CED74C206EFB1BA9DDFBE024D2_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SocketElement_get_AlwaysUseCompletionPortsForAccept_m462DFDB23E0D4C28280C3E92AF9ABE0D928F8FA8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SocketElement_get_AlwaysUseCompletionPortsForConnect_m3F1B3E197EFAF517E0F2E6D4FCA0903E6DDAE47E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SocketElement_get_IPProtectionLevel_m4743BA5CCFCC0478CB43259DC834221E7E1C7F1A_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SocketElement_get_Properties_m8AF94DEEDA0EB4092F59FBDC361592E1B9EBDEC3_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SocketElement_set_AlwaysUseCompletionPortsForAccept_m2B8D5D91CCF934A2081701977A6C4149E7EA35E7_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SocketElement_set_AlwaysUseCompletionPortsForConnect_m617DAE11E817A18FFA4C0EB99F2181EDFD23B822_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* SocketElement_set_IPProtectionLevel_mF34B2FCCAB45AAC1DDE6D5959AED616F864B190D_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ThrowStub_ThrowNotSupportedException_m14168B43936EF78B7B8AC08BD815254DAA1D9FA2_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebProxyScriptElement_PostDeserialize_m42815AE19FB06043AFE775AA84B683B16B503246_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebProxyScriptElement__ctor_mB613D71DE569317E40726CD8DB9A6ABA0A302821_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebProxyScriptElement_get_AutoConfigUrlRetryInterval_m29A4613754E6586CD3409A68C63266F3E42D810F_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebProxyScriptElement_get_DownloadTimeout_m4FA990F095B2CD306CD65205A492D5688959F899_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebProxyScriptElement_get_Properties_mF5188225C0C1D64BC136465BB4B0E962FFE9240B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebProxyScriptElement_set_AutoConfigUrlRetryInterval_m4974ADE6DBA722887617C6678F7862EAA85F5AC0_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebProxyScriptElement_set_DownloadTimeout_m9064C0685C3EA7CE727C7E823019D015C9065363_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_Add_m1B266D818C6F5A8999F457BB34BA30305739477E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_Clear_m1405A4DF1AC009FEDABC6038C139BEF305CED96C_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_CreateNewElement_m397F68DF0A36AB391A404123CF8CF510CC03825E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_GetElementKey_m431F14EFB3211279E674EEF1BA70479934D48474_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_IndexOf_mDA01842DD42B18BAA3497D46EA6A1BEFA0625D59_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_RemoveAt_mCFD44DD167CEBA89E629FDB1C8159BF95ECCBF1D_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_Remove_m03E0DABEA39A2EDB435AE2BEC0D13AC83A2AC776_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_Remove_m7DD3D64ED15E14AF0169514FC2565DDE46D8E312_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection__ctor_m62C156D78336B2E37EA6F10D477FDEAE4161F99E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_get_Item_m2E1FD419BDC43901B86273EAAE12C1192C0942F8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_get_Item_mE8ADB47358C80584A9A5C8D829CDDC0572BA28F8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_set_Item_mBFB801CF7ECCDC4C29FDFE98B69BDFC79D19B62C_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElementCollection_set_Item_mC5E2D50F75EA6DEE744191B58334F92CEFB796BD_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElement__ctor_m33C495B62224AD7B42D0C51A80BEDA02282C1EA6_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElement__ctor_m3A1CA3F314D9999776377B46359BBCA244C16E81_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElement__ctor_m4324DC3F3C281570B8F38DE3B11CC48480B8E5E3_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElement_get_Prefix_m9ABF6D76655D4A853F97AB945A06C0C989204225_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElement_get_Properties_m784E006115FDEDCE5C8830D1571101F0E391B82C_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElement_get_Type_m735160844499572763B638B083544BF83BFC76FB_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElement_set_Prefix_mB0173D91DEDE335215B6D453443E854BE546B4BA_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModuleElement_set_Type_m41DF196D0F67E8A331C6B9FF0DEC932023B777A0_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModulesSection_InitializeDefault_mE69CB230862709EEB90114E19D8465272EEA3CB7_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModulesSection_PostDeserialize_m8DF8F4A7D4E016EA0539FC8DB42BD137CA3C0ED0_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModulesSection__ctor_mF25CD80A5111A4F87B7FBF7663A3442470B97C0E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModulesSection_get_Properties_mBDBDED569E677717FB617CD36B94AE34BF4208F6_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebRequestModulesSection_get_WebRequestModules_m220E91992D98AAE2DF929B9F22387E1A96CC0549_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebUtilityElement__ctor_m5456C0D33DA65AE83E07F4B06CD2F4922FB4187C_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebUtilityElement_get_Properties_m4D37738DB7CEE8FD598A3DBE137857166E16B20C_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebUtilityElement_get_UnicodeDecodingConformance_mBBCDC2E53F9945D3E1F454810DDF5D665BCA4532_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebUtilityElement_get_UnicodeEncodingConformance_mBFEB047F95922D312EBBC42CC4D666272E179796_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebUtilityElement_set_UnicodeDecodingConformance_m8AE1BA3CC9E814C33D258DF3DDCFD364EFD893C3_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WebUtilityElement_set_UnicodeEncodingConformance_m00E9B06E1D664543F83CDB2482B65ADE027D604C_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WindowsAuthenticationElement__ctor_mF5E036D7DF3EFB966AC0D44779A323A31B93D4A9_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WindowsAuthenticationElement_get_DefaultCredentialsHandleCacheSize_m8EC1415284E9EC0E1EECC9EFFEA6FA85D5CBD256_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WindowsAuthenticationElement_get_Properties_mB55BBFB85DF91400C178178E53FA090A5226A5A1_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WindowsAuthenticationElement_set_DefaultCredentialsHandleCacheSize_mB0B1D1EF070852435E4FE672B19FD79FA22C6158_RuntimeMethod_var;
+struct Exception_t_marshaled_com;
+struct Exception_t_marshaled_pinvoke;
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// System.Configuration.Configuration
+struct Configuration_t76590F71F1AB7F5CC4BCC02EC0CDBF4449CDAEC1  : public RuntimeObject
+{
+};
+
+// System.Configuration.ConfigurationElement
+struct ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E  : public RuntimeObject
+{
+};
+
+// System.Configuration.ConfigurationPropertyCollection
+struct ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93  : public RuntimeObject
+{
+};
+
+// System.Configuration.ConfigurationSectionGroup
+struct ConfigurationSectionGroup_tE7948C2D31B193F4BA8828947ED3094B952C7863  : public RuntimeObject
+{
+};
+
+// System.Diagnostics.DiagnosticsConfigurationHandler
+struct DiagnosticsConfigurationHandler_t0C4B611E2C6EA17B288C43070FAF65F96DCA96E7  : public RuntimeObject
+{
+};
+
+// System.Reflection.MemberInfo
+struct MemberInfo_t  : public RuntimeObject
+{
+};
+
+// System.String
+struct String_t  : public RuntimeObject
+{
+	// System.Int32 System.String::_stringLength
+	int32_t ____stringLength_4;
+	// System.Char System.String::_firstChar
+	Il2CppChar ____firstChar_5;
+};
+
+// System.ValueType
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F  : public RuntimeObject
+{
+};
+// Native definition for P/Invoke marshalling of System.ValueType
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of System.ValueType
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_com
+{
+};
+
+// System.Xml.XmlNode
+struct XmlNode_t3180B9B3D5C36CD58F5327D9F13458E3B3F030AF  : public RuntimeObject
+{
+};
+
+// System.Xml.XmlReader
+struct XmlReader_t4C709DEF5F01606ECB60B638F1BD6F6E0A9116FD  : public RuntimeObject
+{
+};
+
+// System.Boolean
+struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22 
+{
+	// System.Boolean System.Boolean::m_value
+	bool ___m_value_0;
+};
+
+// System.Configuration.ConfigurationElementCollection
+struct ConfigurationElementCollection_t56E8398661A85A59616301BADF13026FB1492606  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Configuration.ConfigurationSection
+struct ConfigurationSection_t0BC609F0151B160A4FAB8226679B62AF22539C3E  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.FtpCachePolicyElement
+struct FtpCachePolicyElement_t12FAC54618469F19DD0D3AF0486F173A540D7F2D  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.HttpCachePolicyElement
+struct HttpCachePolicyElement_t6DC6A3BE41501894BA9B880CD58048B6AC7929D7  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.HttpListenerElement
+struct HttpListenerElement_t559D7C83361157D2F59976CF87A8D8CD7DC5CF27  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.HttpWebRequestElement
+struct HttpWebRequestElement_t8D2FEEC531D1FBE1B6E3D1077350A1EBDCB77DC3  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Int32
+struct Int32_t680FF22E76F6EFAD4375103CBBFFA0421349384C 
+{
+	// System.Int32 System.Int32::m_value
+	int32_t ___m_value_0;
+};
+
+// System.IntPtr
+struct IntPtr_t 
+{
+	// System.Void* System.IntPtr::m_value
+	void* ___m_value_0;
+};
+
+// System.Net.Configuration.Ipv6Element
+struct Ipv6Element_t480208D0E23E612DC1FD1CE19D9FB491F0F66932  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.MailSettingsSectionGroup
+struct MailSettingsSectionGroup_tF4FBFB4BD7658F6EB57894999F3B7F467F7C8426  : public ConfigurationSectionGroup_tE7948C2D31B193F4BA8828947ED3094B952C7863
+{
+};
+
+// System.Net.Configuration.NetSectionGroup
+struct NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F  : public ConfigurationSectionGroup_tE7948C2D31B193F4BA8828947ED3094B952C7863
+{
+};
+
+// System.Net.Configuration.PerformanceCountersElement
+struct PerformanceCountersElement_tCB62C8CA7C218E35653DC5BB690A5FFD6D608B30  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.ServicePointManagerElement
+struct ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement
+struct SmtpSpecifiedPickupDirectoryElement_tB884FF2CF82666E01FEB0C50F909B68367868F9D  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.SocketElement
+struct SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.TimeSpan
+struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A 
+{
+	// System.Int64 System.TimeSpan::_ticks
+	int64_t ____ticks_22;
+};
+
+// System.Void
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915 
+{
+	union
+	{
+		struct
+		{
+		};
+		uint8_t Void_t4861ACF8F4594C3437BB48B6E56783494B843915__padding[1];
+	};
+};
+
+// System.Net.Configuration.WebProxyScriptElement
+struct WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.WebRequestModuleElement
+struct WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.WebUtilityElement
+struct WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.WindowsAuthenticationElement
+struct WindowsAuthenticationElement_tC96EDD442C67FE43F7F3B3EDC9BAFB7C9009E13B  : public ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E
+{
+};
+
+// System.Net.Configuration.AuthenticationModulesSection
+struct AuthenticationModulesSection_t3A675E838686A766DCE07BEAB36EA46A62316C69  : public ConfigurationSection_t0BC609F0151B160A4FAB8226679B62AF22539C3E
+{
+};
+
+// System.Net.Configuration.ConnectionManagementSection
+struct ConnectionManagementSection_t8F4D45BE147F24F54F2124CC800B4594031F41C2  : public ConfigurationSection_t0BC609F0151B160A4FAB8226679B62AF22539C3E
+{
+};
+
+// System.Net.Configuration.DefaultProxySection
+struct DefaultProxySection_tC0247A534955DC9D887B03AA4EFB1C1E01AD1E34  : public ConfigurationSection_t0BC609F0151B160A4FAB8226679B62AF22539C3E
+{
+};
+
+// System.Exception
+struct Exception_t  : public RuntimeObject
+{
+	// System.String System.Exception::_className
+	String_t* ____className_1;
+	// System.String System.Exception::_message
+	String_t* ____message_2;
+	// System.Collections.IDictionary System.Exception::_data
+	RuntimeObject* ____data_3;
+	// System.Exception System.Exception::_innerException
+	Exception_t* ____innerException_4;
+	// System.String System.Exception::_helpURL
+	String_t* ____helpURL_5;
+	// System.Object System.Exception::_stackTrace
+	RuntimeObject* ____stackTrace_6;
+	// System.String System.Exception::_stackTraceString
+	String_t* ____stackTraceString_7;
+	// System.String System.Exception::_remoteStackTraceString
+	String_t* ____remoteStackTraceString_8;
+	// System.Int32 System.Exception::_remoteStackIndex
+	int32_t ____remoteStackIndex_9;
+	// System.Object System.Exception::_dynamicMethods
+	RuntimeObject* ____dynamicMethods_10;
+	// System.Int32 System.Exception::_HResult
+	int32_t ____HResult_11;
+	// System.String System.Exception::_source
+	String_t* ____source_12;
+	// System.Runtime.Serialization.SafeSerializationManager System.Exception::_safeSerializationManager
+	SafeSerializationManager_tCBB85B95DFD1634237140CD892E82D06ECB3F5E6* ____safeSerializationManager_13;
+	// System.Diagnostics.StackTrace[] System.Exception::captured_traces
+	StackTraceU5BU5D_t32FBCB20930EAF5BAE3F450FF75228E5450DA0DF* ___captured_traces_14;
+	// System.IntPtr[] System.Exception::native_trace_ips
+	IntPtrU5BU5D_tFD177F8C806A6921AD7150264CCC62FA00CAD832* ___native_trace_ips_15;
+	// System.Int32 System.Exception::caught_in_unmanaged
+	int32_t ___caught_in_unmanaged_16;
+};
+// Native definition for P/Invoke marshalling of System.Exception
+struct Exception_t_marshaled_pinvoke
+{
+	char* ____className_1;
+	char* ____message_2;
+	RuntimeObject* ____data_3;
+	Exception_t_marshaled_pinvoke* ____innerException_4;
+	char* ____helpURL_5;
+	Il2CppIUnknown* ____stackTrace_6;
+	char* ____stackTraceString_7;
+	char* ____remoteStackTraceString_8;
+	int32_t ____remoteStackIndex_9;
+	Il2CppIUnknown* ____dynamicMethods_10;
+	int32_t ____HResult_11;
+	char* ____source_12;
+	SafeSerializationManager_tCBB85B95DFD1634237140CD892E82D06ECB3F5E6* ____safeSerializationManager_13;
+	StackTraceU5BU5D_t32FBCB20930EAF5BAE3F450FF75228E5450DA0DF* ___captured_traces_14;
+	Il2CppSafeArray/*NONE*/* ___native_trace_ips_15;
+	int32_t ___caught_in_unmanaged_16;
+};
+// Native definition for COM marshalling of System.Exception
+struct Exception_t_marshaled_com
+{
+	Il2CppChar* ____className_1;
+	Il2CppChar* ____message_2;
+	RuntimeObject* ____data_3;
+	Exception_t_marshaled_com* ____innerException_4;
+	Il2CppChar* ____helpURL_5;
+	Il2CppIUnknown* ____stackTrace_6;
+	Il2CppChar* ____stackTraceString_7;
+	Il2CppChar* ____remoteStackTraceString_8;
+	int32_t ____remoteStackIndex_9;
+	Il2CppIUnknown* ____dynamicMethods_10;
+	int32_t ____HResult_11;
+	Il2CppChar* ____source_12;
+	SafeSerializationManager_tCBB85B95DFD1634237140CD892E82D06ECB3F5E6* ____safeSerializationManager_13;
+	StackTraceU5BU5D_t32FBCB20930EAF5BAE3F450FF75228E5450DA0DF* ___captured_traces_14;
+	Il2CppSafeArray/*NONE*/* ___native_trace_ips_15;
+	int32_t ___caught_in_unmanaged_16;
+};
+
+// System.Net.Configuration.RequestCachingSection
+struct RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4  : public ConfigurationSection_t0BC609F0151B160A4FAB8226679B62AF22539C3E
+{
+};
+
+// System.RuntimeTypeHandle
+struct RuntimeTypeHandle_t332A452B8B6179E4469B69525D0FE82A88030F7B 
+{
+	// System.IntPtr System.RuntimeTypeHandle::value
+	intptr_t ___value_0;
+};
+
+// System.Net.Configuration.SettingsSection
+struct SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12  : public ConfigurationSection_t0BC609F0151B160A4FAB8226679B62AF22539C3E
+{
+};
+
+// System.Net.Configuration.WebRequestModuleElementCollection
+struct WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463  : public ConfigurationElementCollection_t56E8398661A85A59616301BADF13026FB1492606
+{
+};
+
+// System.Net.Configuration.WebRequestModulesSection
+struct WebRequestModulesSection_t4099F9890D7851314C5528C577E4C51B36C97D00  : public ConfigurationSection_t0BC609F0151B160A4FAB8226679B62AF22539C3E
+{
+};
+
+// System.SystemException
+struct SystemException_tCC48D868298F4C0705279823E34B00F4FBDB7295  : public Exception_t
+{
+};
+
+// System.Type
+struct Type_t  : public MemberInfo_t
+{
+	// System.RuntimeTypeHandle System.Type::_impl
+	RuntimeTypeHandle_t332A452B8B6179E4469B69525D0FE82A88030F7B ____impl_8;
+};
+
+// System.InvalidOperationException
+struct InvalidOperationException_t5DDE4D49B7405FAAB1E4576F4715A42A3FAD4BAB  : public SystemException_tCC48D868298F4C0705279823E34B00F4FBDB7295
+{
+};
+
+// System.NotSupportedException
+struct NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A  : public SystemException_tCC48D868298F4C0705279823E34B00F4FBDB7295
+{
+};
+
+// System.ObjectDisposedException
+struct ObjectDisposedException_tC5FB29E8E980E2010A2F6A5B9B791089419F89EB  : public InvalidOperationException_t5DDE4D49B7405FAAB1E4576F4715A42A3FAD4BAB
+{
+	// System.String System.ObjectDisposedException::_objectName
+	String_t* ____objectName_18;
+};
+
+// System.PlatformNotSupportedException
+struct PlatformNotSupportedException_tD2BD7EB9278518AA5FE8AE75AD5D0D4298A4631A  : public NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A
+{
+};
+
+// Unity.ThrowStub
+struct ThrowStub_tA028CA7941154A8E0F17F9AD0563D538617A7A47  : public ObjectDisposedException_tC5FB29E8E980E2010A2F6A5B9B791089419F89EB
+{
+};
+
+// System.Configuration.Configuration
+
+// System.Configuration.Configuration
+
+// System.Configuration.ConfigurationElement
+
+// System.Configuration.ConfigurationElement
+
+// System.Configuration.ConfigurationPropertyCollection
+
+// System.Configuration.ConfigurationPropertyCollection
+
+// System.Configuration.ConfigurationSectionGroup
+
+// System.Configuration.ConfigurationSectionGroup
+
+// System.Diagnostics.DiagnosticsConfigurationHandler
+
+// System.Diagnostics.DiagnosticsConfigurationHandler
+
+// System.Reflection.MemberInfo
+
+// System.Reflection.MemberInfo
+
+// System.String
+struct String_t_StaticFields
+{
+	// System.String System.String::Empty
+	String_t* ___Empty_6;
+};
+
+// System.String
+
+// System.ValueType
+
+// System.ValueType
+
+// System.Xml.XmlNode
+
+// System.Xml.XmlNode
+
+// System.Xml.XmlReader
+struct XmlReader_t4C709DEF5F01606ECB60B638F1BD6F6E0A9116FD_StaticFields
+{
+	// System.UInt32 System.Xml.XmlReader::IsTextualNodeBitmap
+	uint32_t ___IsTextualNodeBitmap_0;
+	// System.UInt32 System.Xml.XmlReader::CanReadContentAsBitmap
+	uint32_t ___CanReadContentAsBitmap_1;
+	// System.UInt32 System.Xml.XmlReader::HasValueBitmap
+	uint32_t ___HasValueBitmap_2;
+};
+
+// System.Xml.XmlReader
+
+// System.Boolean
+struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
+{
+	// System.String System.Boolean::TrueString
+	String_t* ___TrueString_5;
+	// System.String System.Boolean::FalseString
+	String_t* ___FalseString_6;
+};
+
+// System.Boolean
+
+// System.Configuration.ConfigurationElementCollection
+
+// System.Configuration.ConfigurationElementCollection
+
+// System.Configuration.ConfigurationSection
+
+// System.Configuration.ConfigurationSection
+
+// System.Net.Configuration.FtpCachePolicyElement
+
+// System.Net.Configuration.FtpCachePolicyElement
+
+// System.Net.Configuration.HttpCachePolicyElement
+
+// System.Net.Configuration.HttpCachePolicyElement
+
+// System.Net.Configuration.HttpListenerElement
+
+// System.Net.Configuration.HttpListenerElement
+
+// System.Net.Configuration.HttpWebRequestElement
+
+// System.Net.Configuration.HttpWebRequestElement
+
+// System.Int32
+
+// System.Int32
+
+// System.IntPtr
+struct IntPtr_t_StaticFields
+{
+	// System.IntPtr System.IntPtr::Zero
+	intptr_t ___Zero_1;
+};
+
+// System.IntPtr
+
+// System.Net.Configuration.Ipv6Element
+
+// System.Net.Configuration.Ipv6Element
+
+// System.Net.Configuration.MailSettingsSectionGroup
+
+// System.Net.Configuration.MailSettingsSectionGroup
+
+// System.Net.Configuration.NetSectionGroup
+
+// System.Net.Configuration.NetSectionGroup
+
+// System.Net.Configuration.PerformanceCountersElement
+
+// System.Net.Configuration.PerformanceCountersElement
+
+// System.Net.Configuration.ServicePointManagerElement
+
+// System.Net.Configuration.ServicePointManagerElement
+
+// System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement
+
+// System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement
+
+// System.Net.Configuration.SocketElement
+
+// System.Net.Configuration.SocketElement
+
+// System.TimeSpan
+struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A_StaticFields
+{
+	// System.TimeSpan System.TimeSpan::Zero
+	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___Zero_19;
+	// System.TimeSpan System.TimeSpan::MaxValue
+	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___MaxValue_20;
+	// System.TimeSpan System.TimeSpan::MinValue
+	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___MinValue_21;
+};
+
+// System.TimeSpan
+
+// System.Void
+
+// System.Void
+
+// System.Net.Configuration.WebProxyScriptElement
+
+// System.Net.Configuration.WebProxyScriptElement
+
+// System.Net.Configuration.WebRequestModuleElement
+
+// System.Net.Configuration.WebRequestModuleElement
+
+// System.Net.Configuration.WebUtilityElement
+
+// System.Net.Configuration.WebUtilityElement
+
+// System.Net.Configuration.WindowsAuthenticationElement
+
+// System.Net.Configuration.WindowsAuthenticationElement
+
+// System.Net.Configuration.AuthenticationModulesSection
+
+// System.Net.Configuration.AuthenticationModulesSection
+
+// System.Net.Configuration.ConnectionManagementSection
+
+// System.Net.Configuration.ConnectionManagementSection
+
+// System.Net.Configuration.DefaultProxySection
+
+// System.Net.Configuration.DefaultProxySection
+
+// System.Exception
+struct Exception_t_StaticFields
+{
+	// System.Object System.Exception::s_EDILock
+	RuntimeObject* ___s_EDILock_0;
+};
+
+// System.Exception
+
+// System.Net.Configuration.RequestCachingSection
+
+// System.Net.Configuration.RequestCachingSection
+
+// System.RuntimeTypeHandle
+
+// System.RuntimeTypeHandle
+
+// System.Net.Configuration.SettingsSection
+
+// System.Net.Configuration.SettingsSection
+
+// System.Net.Configuration.WebRequestModuleElementCollection
+
+// System.Net.Configuration.WebRequestModuleElementCollection
+
+// System.Net.Configuration.WebRequestModulesSection
+
+// System.Net.Configuration.WebRequestModulesSection
+
+// System.SystemException
+
+// System.SystemException
+
+// System.Type
+struct Type_t_StaticFields
+{
+	// System.Reflection.Binder modreq(System.Runtime.CompilerServices.IsVolatile) System.Type::s_defaultBinder
+	Binder_t91BFCE95A7057FADF4D8A1A342AFE52872246235* ___s_defaultBinder_0;
+	// System.Char System.Type::Delimiter
+	Il2CppChar ___Delimiter_1;
+	// System.Type[] System.Type::EmptyTypes
+	TypeU5BU5D_t97234E1129B564EB38B8D85CAC2AD8B5B9522FFB* ___EmptyTypes_2;
+	// System.Object System.Type::Missing
+	RuntimeObject* ___Missing_3;
+	// System.Reflection.MemberFilter System.Type::FilterAttribute
+	MemberFilter_tF644F1AE82F611B677CE1964D5A3277DDA21D553* ___FilterAttribute_4;
+	// System.Reflection.MemberFilter System.Type::FilterName
+	MemberFilter_tF644F1AE82F611B677CE1964D5A3277DDA21D553* ___FilterName_5;
+	// System.Reflection.MemberFilter System.Type::FilterNameIgnoreCase
+	MemberFilter_tF644F1AE82F611B677CE1964D5A3277DDA21D553* ___FilterNameIgnoreCase_6;
+};
+
+// System.Type
+
+// System.InvalidOperationException
+
+// System.InvalidOperationException
+
+// System.NotSupportedException
+
+// System.NotSupportedException
+
+// System.ObjectDisposedException
+
+// System.ObjectDisposedException
+
+// System.PlatformNotSupportedException
+
+// System.PlatformNotSupportedException
+
+// Unity.ThrowStub
+
+// Unity.ThrowStub
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+
+
+
+// System.Void System.PlatformNotSupportedException::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlatformNotSupportedException__ctor_mD5DBE8E9A6FF4B75EF02671029C6D67A51EAFBD1 (PlatformNotSupportedException_tD2BD7EB9278518AA5FE8AE75AD5D0D4298A4631A* __this, const RuntimeMethod* method) ;
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SmtpSpecifiedPickupDirectoryElement__ctor_m778F796D9EDE9516D87202371364C21829EF7B0E (SmtpSpecifiedPickupDirectoryElement_tB884FF2CF82666E01FEB0C50F909B68367868F9D* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SmtpSpecifiedPickupDirectoryElement__ctor_m778F796D9EDE9516D87202371364C21829EF7B0E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SmtpSpecifiedPickupDirectoryElement__ctor_m778F796D9EDE9516D87202371364C21829EF7B0E_RuntimeMethod_var);
+		return;
+	}
+}
+// System.String System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement::get_PickupDirectoryLocation()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* SmtpSpecifiedPickupDirectoryElement_get_PickupDirectoryLocation_m8FF4EBED8D7966329F958F8C69EEBB98F6B2279F (SmtpSpecifiedPickupDirectoryElement_tB884FF2CF82666E01FEB0C50F909B68367868F9D* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SmtpSpecifiedPickupDirectoryElement_get_PickupDirectoryLocation_m8FF4EBED8D7966329F958F8C69EEBB98F6B2279F_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SmtpSpecifiedPickupDirectoryElement_get_PickupDirectoryLocation_m8FF4EBED8D7966329F958F8C69EEBB98F6B2279F_RuntimeMethod_var);
+		return (String_t*)NULL;
+	}
+}
+// System.Void System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement::set_PickupDirectoryLocation(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SmtpSpecifiedPickupDirectoryElement_set_PickupDirectoryLocation_m14A0A9864A55416BB0F0F1E02003A61382D14C76 (SmtpSpecifiedPickupDirectoryElement_tB884FF2CF82666E01FEB0C50F909B68367868F9D* __this, String_t* ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SmtpSpecifiedPickupDirectoryElement_set_PickupDirectoryLocation_m14A0A9864A55416BB0F0F1E02003A61382D14C76_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SmtpSpecifiedPickupDirectoryElement_set_PickupDirectoryLocation_m14A0A9864A55416BB0F0F1E02003A61382D14C76_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* SmtpSpecifiedPickupDirectoryElement_get_Properties_m2F90A06B9600227CB386C97264FBBCE4AC8146BE (SmtpSpecifiedPickupDirectoryElement_tB884FF2CF82666E01FEB0C50F909B68367868F9D* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SmtpSpecifiedPickupDirectoryElement_get_Properties_m2F90A06B9600227CB386C97264FBBCE4AC8146BE_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SmtpSpecifiedPickupDirectoryElement_get_Properties_m2F90A06B9600227CB386C97264FBBCE4AC8146BE_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.NetSectionGroup::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NetSectionGroup__ctor_mCD2F0DC2B9F0C6C346BC91BD8750C7111A9528AC (NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&NetSectionGroup__ctor_mCD2F0DC2B9F0C6C346BC91BD8750C7111A9528AC_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(NetSectionGroup__ctor_mCD2F0DC2B9F0C6C346BC91BD8750C7111A9528AC_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Net.Configuration.AuthenticationModulesSection System.Net.Configuration.NetSectionGroup::get_AuthenticationModules()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AuthenticationModulesSection_t3A675E838686A766DCE07BEAB36EA46A62316C69* NetSectionGroup_get_AuthenticationModules_m2266B92D456F596482FD58A66564A8C66CE0678E (NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&NetSectionGroup_get_AuthenticationModules_m2266B92D456F596482FD58A66564A8C66CE0678E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(NetSectionGroup_get_AuthenticationModules_m2266B92D456F596482FD58A66564A8C66CE0678E_RuntimeMethod_var);
+		return (AuthenticationModulesSection_t3A675E838686A766DCE07BEAB36EA46A62316C69*)NULL;
+	}
+}
+// System.Net.Configuration.ConnectionManagementSection System.Net.Configuration.NetSectionGroup::get_ConnectionManagement()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConnectionManagementSection_t8F4D45BE147F24F54F2124CC800B4594031F41C2* NetSectionGroup_get_ConnectionManagement_m9CBE0E2AA629807E547E71A42677666403F75B0A (NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&NetSectionGroup_get_ConnectionManagement_m9CBE0E2AA629807E547E71A42677666403F75B0A_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(NetSectionGroup_get_ConnectionManagement_m9CBE0E2AA629807E547E71A42677666403F75B0A_RuntimeMethod_var);
+		return (ConnectionManagementSection_t8F4D45BE147F24F54F2124CC800B4594031F41C2*)NULL;
+	}
+}
+// System.Net.Configuration.DefaultProxySection System.Net.Configuration.NetSectionGroup::get_DefaultProxy()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR DefaultProxySection_tC0247A534955DC9D887B03AA4EFB1C1E01AD1E34* NetSectionGroup_get_DefaultProxy_mDFB16FD78D6F16272B868DECAD4B2D6CA0029626 (NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&NetSectionGroup_get_DefaultProxy_mDFB16FD78D6F16272B868DECAD4B2D6CA0029626_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(NetSectionGroup_get_DefaultProxy_mDFB16FD78D6F16272B868DECAD4B2D6CA0029626_RuntimeMethod_var);
+		return (DefaultProxySection_tC0247A534955DC9D887B03AA4EFB1C1E01AD1E34*)NULL;
+	}
+}
+// System.Net.Configuration.MailSettingsSectionGroup System.Net.Configuration.NetSectionGroup::get_MailSettings()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MailSettingsSectionGroup_tF4FBFB4BD7658F6EB57894999F3B7F467F7C8426* NetSectionGroup_get_MailSettings_m061EF5997B2ADC36605125874A9EBCD336E155C6 (NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&NetSectionGroup_get_MailSettings_m061EF5997B2ADC36605125874A9EBCD336E155C6_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(NetSectionGroup_get_MailSettings_m061EF5997B2ADC36605125874A9EBCD336E155C6_RuntimeMethod_var);
+		return (MailSettingsSectionGroup_tF4FBFB4BD7658F6EB57894999F3B7F467F7C8426*)NULL;
+	}
+}
+// System.Net.Configuration.RequestCachingSection System.Net.Configuration.NetSectionGroup::get_RequestCaching()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* NetSectionGroup_get_RequestCaching_m1C4D250A58F7E58E392D5293B850E54E516F1980 (NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&NetSectionGroup_get_RequestCaching_m1C4D250A58F7E58E392D5293B850E54E516F1980_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(NetSectionGroup_get_RequestCaching_m1C4D250A58F7E58E392D5293B850E54E516F1980_RuntimeMethod_var);
+		return (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4*)NULL;
+	}
+}
+// System.Net.Configuration.SettingsSection System.Net.Configuration.NetSectionGroup::get_Settings()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* NetSectionGroup_get_Settings_m9478377C3C07EF944C6B3428CE7DA1D90E0C05E4 (NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&NetSectionGroup_get_Settings_m9478377C3C07EF944C6B3428CE7DA1D90E0C05E4_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(NetSectionGroup_get_Settings_m9478377C3C07EF944C6B3428CE7DA1D90E0C05E4_RuntimeMethod_var);
+		return (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12*)NULL;
+	}
+}
+// System.Net.Configuration.WebRequestModulesSection System.Net.Configuration.NetSectionGroup::get_WebRequestModules()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR WebRequestModulesSection_t4099F9890D7851314C5528C577E4C51B36C97D00* NetSectionGroup_get_WebRequestModules_m55EBE5D63BE2FBF4FDB47B38AF880F9175EB40EE (NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&NetSectionGroup_get_WebRequestModules_m55EBE5D63BE2FBF4FDB47B38AF880F9175EB40EE_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(NetSectionGroup_get_WebRequestModules_m55EBE5D63BE2FBF4FDB47B38AF880F9175EB40EE_RuntimeMethod_var);
+		return (WebRequestModulesSection_t4099F9890D7851314C5528C577E4C51B36C97D00*)NULL;
+	}
+}
+// System.Net.Configuration.NetSectionGroup System.Net.Configuration.NetSectionGroup::GetSectionGroup(System.Configuration.Configuration)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F* NetSectionGroup_GetSectionGroup_mB365D84045B47F37CBC51B19FA4FCF7789A40534 (Configuration_t76590F71F1AB7F5CC4BCC02EC0CDBF4449CDAEC1* ___0_config, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&NetSectionGroup_GetSectionGroup_mB365D84045B47F37CBC51B19FA4FCF7789A40534_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(NetSectionGroup_GetSectionGroup_mB365D84045B47F37CBC51B19FA4FCF7789A40534_RuntimeMethod_var);
+		return (NetSectionGroup_tA83DCAF89773087D0E921B92F67441132B71D52F*)NULL;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.RequestCachingSection::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RequestCachingSection__ctor_m492CDBD5071E558E611DB3B464D3406BC468532D (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection__ctor_m492CDBD5071E558E611DB3B464D3406BC468532D_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection__ctor_m492CDBD5071E558E611DB3B464D3406BC468532D_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Net.Configuration.FtpCachePolicyElement System.Net.Configuration.RequestCachingSection::get_DefaultFtpCachePolicy()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR FtpCachePolicyElement_t12FAC54618469F19DD0D3AF0486F173A540D7F2D* RequestCachingSection_get_DefaultFtpCachePolicy_m6156411957E4B580665E24F646C55EEFB9C03D91 (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_get_DefaultFtpCachePolicy_m6156411957E4B580665E24F646C55EEFB9C03D91_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_get_DefaultFtpCachePolicy_m6156411957E4B580665E24F646C55EEFB9C03D91_RuntimeMethod_var);
+		return (FtpCachePolicyElement_t12FAC54618469F19DD0D3AF0486F173A540D7F2D*)NULL;
+	}
+}
+// System.Net.Configuration.HttpCachePolicyElement System.Net.Configuration.RequestCachingSection::get_DefaultHttpCachePolicy()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR HttpCachePolicyElement_t6DC6A3BE41501894BA9B880CD58048B6AC7929D7* RequestCachingSection_get_DefaultHttpCachePolicy_mCC1951084BD1753884DC700D760B49F900D3F810 (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_get_DefaultHttpCachePolicy_mCC1951084BD1753884DC700D760B49F900D3F810_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_get_DefaultHttpCachePolicy_mCC1951084BD1753884DC700D760B49F900D3F810_RuntimeMethod_var);
+		return (HttpCachePolicyElement_t6DC6A3BE41501894BA9B880CD58048B6AC7929D7*)NULL;
+	}
+}
+// System.Net.Cache.RequestCacheLevel System.Net.Configuration.RequestCachingSection::get_DefaultPolicyLevel()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t RequestCachingSection_get_DefaultPolicyLevel_mC5EC2F5BBC31CF2F1D5E9AC1EA1BA34A29E662FB (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_get_DefaultPolicyLevel_mC5EC2F5BBC31CF2F1D5E9AC1EA1BA34A29E662FB_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	int32_t V_0 = 0;
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_get_DefaultPolicyLevel_mC5EC2F5BBC31CF2F1D5E9AC1EA1BA34A29E662FB_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.RequestCachingSection::set_DefaultPolicyLevel(System.Net.Cache.RequestCacheLevel)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RequestCachingSection_set_DefaultPolicyLevel_mCE38163685856A75D3994722D7FBDFE2C8A04756 (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_set_DefaultPolicyLevel_mCE38163685856A75D3994722D7FBDFE2C8A04756_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_set_DefaultPolicyLevel_mCE38163685856A75D3994722D7FBDFE2C8A04756_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Boolean System.Net.Configuration.RequestCachingSection::get_DisableAllCaching()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool RequestCachingSection_get_DisableAllCaching_m880E1629352AC0B9AF4C6DFD2A4FA472ACC7483B (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_get_DisableAllCaching_m880E1629352AC0B9AF4C6DFD2A4FA472ACC7483B_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_get_DisableAllCaching_m880E1629352AC0B9AF4C6DFD2A4FA472ACC7483B_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.RequestCachingSection::set_DisableAllCaching(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RequestCachingSection_set_DisableAllCaching_m7D9FD5D20A4972B47C1E7DD938888F49D392000A (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_set_DisableAllCaching_m7D9FD5D20A4972B47C1E7DD938888F49D392000A_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_set_DisableAllCaching_m7D9FD5D20A4972B47C1E7DD938888F49D392000A_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Boolean System.Net.Configuration.RequestCachingSection::get_IsPrivateCache()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool RequestCachingSection_get_IsPrivateCache_m51BD06919A5DB7FBEBC7489725B16F6448B7F43A (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_get_IsPrivateCache_m51BD06919A5DB7FBEBC7489725B16F6448B7F43A_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_get_IsPrivateCache_m51BD06919A5DB7FBEBC7489725B16F6448B7F43A_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.RequestCachingSection::set_IsPrivateCache(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RequestCachingSection_set_IsPrivateCache_m23E1E9635F532065DC3FF8D3D2209C960AFA2DAD (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_set_IsPrivateCache_m23E1E9635F532065DC3FF8D3D2209C960AFA2DAD_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_set_IsPrivateCache_m23E1E9635F532065DC3FF8D3D2209C960AFA2DAD_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.RequestCachingSection::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* RequestCachingSection_get_Properties_m380A033BF2302CEE41A9C4D05793205AFCAE1310 (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_get_Properties_m380A033BF2302CEE41A9C4D05793205AFCAE1310_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_get_Properties_m380A033BF2302CEE41A9C4D05793205AFCAE1310_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+// System.TimeSpan System.Net.Configuration.RequestCachingSection::get_UnspecifiedMaximumAge()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A RequestCachingSection_get_UnspecifiedMaximumAge_m68CAC1EB7E24A3DA7A5B9A21FAD75437F7B65CB2 (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_get_UnspecifiedMaximumAge_m68CAC1EB7E24A3DA7A5B9A21FAD75437F7B65CB2_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_get_UnspecifiedMaximumAge_m68CAC1EB7E24A3DA7A5B9A21FAD75437F7B65CB2_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A));
+		TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.RequestCachingSection::set_UnspecifiedMaximumAge(System.TimeSpan)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RequestCachingSection_set_UnspecifiedMaximumAge_m383C4C9177D2D84452BA03C2434683291207DEE8 (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_set_UnspecifiedMaximumAge_m383C4C9177D2D84452BA03C2434683291207DEE8_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_set_UnspecifiedMaximumAge_m383C4C9177D2D84452BA03C2434683291207DEE8_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.RequestCachingSection::DeserializeElement(System.Xml.XmlReader,System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RequestCachingSection_DeserializeElement_m0FC0D231EA5E20DC3FC6F6850876A0447C2845EB (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, XmlReader_t4C709DEF5F01606ECB60B638F1BD6F6E0A9116FD* ___0_reader, bool ___1_serializeCollectionKey, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_DeserializeElement_m0FC0D231EA5E20DC3FC6F6850876A0447C2845EB_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_DeserializeElement_m0FC0D231EA5E20DC3FC6F6850876A0447C2845EB_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.RequestCachingSection::PostDeserialize()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RequestCachingSection_PostDeserialize_m9341CDB5931002D76B1CD38A4D60A732549A6A39 (RequestCachingSection_t4BB7D41862ACF0CB8992F8446B4EF550C44429B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RequestCachingSection_PostDeserialize_m9341CDB5931002D76B1CD38A4D60A732549A6A39_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(RequestCachingSection_PostDeserialize_m9341CDB5931002D76B1CD38A4D60A732549A6A39_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.SettingsSection::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SettingsSection__ctor_mBD94E7E098221DC09775A3AE1713930F6820D242 (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection__ctor_mBD94E7E098221DC09775A3AE1713930F6820D242_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection__ctor_mBD94E7E098221DC09775A3AE1713930F6820D242_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Net.Configuration.HttpListenerElement System.Net.Configuration.SettingsSection::get_HttpListener()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR HttpListenerElement_t559D7C83361157D2F59976CF87A8D8CD7DC5CF27* SettingsSection_get_HttpListener_mED29DE54BD03661334A79DCD3CF4B09E0C851CE6 (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_HttpListener_mED29DE54BD03661334A79DCD3CF4B09E0C851CE6_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_HttpListener_mED29DE54BD03661334A79DCD3CF4B09E0C851CE6_RuntimeMethod_var);
+		return (HttpListenerElement_t559D7C83361157D2F59976CF87A8D8CD7DC5CF27*)NULL;
+	}
+}
+// System.Net.Configuration.HttpWebRequestElement System.Net.Configuration.SettingsSection::get_HttpWebRequest()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR HttpWebRequestElement_t8D2FEEC531D1FBE1B6E3D1077350A1EBDCB77DC3* SettingsSection_get_HttpWebRequest_mBE81AA51E269D29FE517F6B8F475FB52984F2A23 (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_HttpWebRequest_mBE81AA51E269D29FE517F6B8F475FB52984F2A23_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_HttpWebRequest_mBE81AA51E269D29FE517F6B8F475FB52984F2A23_RuntimeMethod_var);
+		return (HttpWebRequestElement_t8D2FEEC531D1FBE1B6E3D1077350A1EBDCB77DC3*)NULL;
+	}
+}
+// System.Net.Configuration.Ipv6Element System.Net.Configuration.SettingsSection::get_Ipv6()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Ipv6Element_t480208D0E23E612DC1FD1CE19D9FB491F0F66932* SettingsSection_get_Ipv6_mA006DD8D732839D151E44C1B68C05309937AC30E (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_Ipv6_mA006DD8D732839D151E44C1B68C05309937AC30E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_Ipv6_mA006DD8D732839D151E44C1B68C05309937AC30E_RuntimeMethod_var);
+		return (Ipv6Element_t480208D0E23E612DC1FD1CE19D9FB491F0F66932*)NULL;
+	}
+}
+// System.Net.Configuration.PerformanceCountersElement System.Net.Configuration.SettingsSection::get_PerformanceCounters()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR PerformanceCountersElement_tCB62C8CA7C218E35653DC5BB690A5FFD6D608B30* SettingsSection_get_PerformanceCounters_mCFA1A5F427054AE2AA39602892AC6F0BE7FFCD53 (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_PerformanceCounters_mCFA1A5F427054AE2AA39602892AC6F0BE7FFCD53_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_PerformanceCounters_mCFA1A5F427054AE2AA39602892AC6F0BE7FFCD53_RuntimeMethod_var);
+		return (PerformanceCountersElement_tCB62C8CA7C218E35653DC5BB690A5FFD6D608B30*)NULL;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.SettingsSection::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* SettingsSection_get_Properties_mA774C9C884F4AD5DEC2BBE31DF7E35CAC71EBF8F (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_Properties_mA774C9C884F4AD5DEC2BBE31DF7E35CAC71EBF8F_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_Properties_mA774C9C884F4AD5DEC2BBE31DF7E35CAC71EBF8F_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+// System.Net.Configuration.ServicePointManagerElement System.Net.Configuration.SettingsSection::get_ServicePointManager()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* SettingsSection_get_ServicePointManager_m07C0AE14661EC5866ECF56566C7C36831F9D597A (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_ServicePointManager_m07C0AE14661EC5866ECF56566C7C36831F9D597A_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_ServicePointManager_m07C0AE14661EC5866ECF56566C7C36831F9D597A_RuntimeMethod_var);
+		return (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2*)NULL;
+	}
+}
+// System.Net.Configuration.SocketElement System.Net.Configuration.SettingsSection::get_Socket()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* SettingsSection_get_Socket_mE77BF68792B0B1479FCB1E349AD470A8A9DCE171 (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_Socket_mE77BF68792B0B1479FCB1E349AD470A8A9DCE171_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_Socket_mE77BF68792B0B1479FCB1E349AD470A8A9DCE171_RuntimeMethod_var);
+		return (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6*)NULL;
+	}
+}
+// System.Net.Configuration.WebProxyScriptElement System.Net.Configuration.SettingsSection::get_WebProxyScript()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167* SettingsSection_get_WebProxyScript_m466A2A9AA8357CBF233FCDEF201B2B5EFBAAAAF5 (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_WebProxyScript_m466A2A9AA8357CBF233FCDEF201B2B5EFBAAAAF5_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_WebProxyScript_m466A2A9AA8357CBF233FCDEF201B2B5EFBAAAAF5_RuntimeMethod_var);
+		return (WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167*)NULL;
+	}
+}
+// System.Net.Configuration.WebUtilityElement System.Net.Configuration.SettingsSection::get_WebUtility()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0* SettingsSection_get_WebUtility_m2D1E31AA087C50BB1CCE762E516253AB2D6BD3B8 (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_WebUtility_m2D1E31AA087C50BB1CCE762E516253AB2D6BD3B8_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_WebUtility_m2D1E31AA087C50BB1CCE762E516253AB2D6BD3B8_RuntimeMethod_var);
+		return (WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0*)NULL;
+	}
+}
+// System.Net.Configuration.WindowsAuthenticationElement System.Net.Configuration.SettingsSection::get_WindowsAuthentication()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR WindowsAuthenticationElement_tC96EDD442C67FE43F7F3B3EDC9BAFB7C9009E13B* SettingsSection_get_WindowsAuthentication_m10A9B3260BB9FFF3213A77218772DFFC4F8B9BDB (SettingsSection_tC931BA69B22D5E0ED07698F02778482987319A12* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsSection_get_WindowsAuthentication_m10A9B3260BB9FFF3213A77218772DFFC4F8B9BDB_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SettingsSection_get_WindowsAuthentication_m10A9B3260BB9FFF3213A77218772DFFC4F8B9BDB_RuntimeMethod_var);
+		return (WindowsAuthenticationElement_tC96EDD442C67FE43F7F3B3EDC9BAFB7C9009E13B*)NULL;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.PerformanceCountersElement::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PerformanceCountersElement__ctor_m9537195CBC7DC607F7253D06E7B6B1090456E68F (PerformanceCountersElement_tCB62C8CA7C218E35653DC5BB690A5FFD6D608B30* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PerformanceCountersElement__ctor_m9537195CBC7DC607F7253D06E7B6B1090456E68F_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(PerformanceCountersElement__ctor_m9537195CBC7DC607F7253D06E7B6B1090456E68F_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Boolean System.Net.Configuration.PerformanceCountersElement::get_Enabled()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PerformanceCountersElement_get_Enabled_m5BE4C7AE4BDE434A3E8FD4F6223461F721C1612E (PerformanceCountersElement_tCB62C8CA7C218E35653DC5BB690A5FFD6D608B30* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PerformanceCountersElement_get_Enabled_m5BE4C7AE4BDE434A3E8FD4F6223461F721C1612E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(PerformanceCountersElement_get_Enabled_m5BE4C7AE4BDE434A3E8FD4F6223461F721C1612E_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.PerformanceCountersElement::set_Enabled(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PerformanceCountersElement_set_Enabled_m4FCE96FC62C5580EBC92E771B79B56CDD0644540 (PerformanceCountersElement_tCB62C8CA7C218E35653DC5BB690A5FFD6D608B30* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PerformanceCountersElement_set_Enabled_m4FCE96FC62C5580EBC92E771B79B56CDD0644540_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(PerformanceCountersElement_set_Enabled_m4FCE96FC62C5580EBC92E771B79B56CDD0644540_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.PerformanceCountersElement::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* PerformanceCountersElement_get_Properties_m7C16FBC3E915E8384FB4409209628737B1537C9B (PerformanceCountersElement_tCB62C8CA7C218E35653DC5BB690A5FFD6D608B30* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PerformanceCountersElement_get_Properties_m7C16FBC3E915E8384FB4409209628737B1537C9B_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(PerformanceCountersElement_get_Properties_m7C16FBC3E915E8384FB4409209628737B1537C9B_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.ServicePointManagerElement::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ServicePointManagerElement__ctor_m0F1CF21589CA283DA734A472930A9665698B2D36 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement__ctor_m0F1CF21589CA283DA734A472930A9665698B2D36_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement__ctor_m0F1CF21589CA283DA734A472930A9665698B2D36_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Boolean System.Net.Configuration.ServicePointManagerElement::get_CheckCertificateName()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ServicePointManagerElement_get_CheckCertificateName_m93EF583F234799FD3457FD347F064866FBA1C83F (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_get_CheckCertificateName_m93EF583F234799FD3457FD347F064866FBA1C83F_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_get_CheckCertificateName_m93EF583F234799FD3457FD347F064866FBA1C83F_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.ServicePointManagerElement::set_CheckCertificateName(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ServicePointManagerElement_set_CheckCertificateName_m530AEAE236C8B6ADB4C372F8680F36EFAE663846 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_set_CheckCertificateName_m530AEAE236C8B6ADB4C372F8680F36EFAE663846_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_set_CheckCertificateName_m530AEAE236C8B6ADB4C372F8680F36EFAE663846_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Boolean System.Net.Configuration.ServicePointManagerElement::get_CheckCertificateRevocationList()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ServicePointManagerElement_get_CheckCertificateRevocationList_m7A72730A6EB04CC11953189E20B9DA39B8B9D812 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_get_CheckCertificateRevocationList_m7A72730A6EB04CC11953189E20B9DA39B8B9D812_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_get_CheckCertificateRevocationList_m7A72730A6EB04CC11953189E20B9DA39B8B9D812_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.ServicePointManagerElement::set_CheckCertificateRevocationList(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ServicePointManagerElement_set_CheckCertificateRevocationList_m8958E8118076E0E7198754FA5C1F1529A98843DE (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_set_CheckCertificateRevocationList_m8958E8118076E0E7198754FA5C1F1529A98843DE_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_set_CheckCertificateRevocationList_m8958E8118076E0E7198754FA5C1F1529A98843DE_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Int32 System.Net.Configuration.ServicePointManagerElement::get_DnsRefreshTimeout()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t ServicePointManagerElement_get_DnsRefreshTimeout_mCA5740E1DA151B21CF5D20E0B98C6139FACFDDB5 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_get_DnsRefreshTimeout_mCA5740E1DA151B21CF5D20E0B98C6139FACFDDB5_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	int32_t V_0 = 0;
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_get_DnsRefreshTimeout_mCA5740E1DA151B21CF5D20E0B98C6139FACFDDB5_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.ServicePointManagerElement::set_DnsRefreshTimeout(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ServicePointManagerElement_set_DnsRefreshTimeout_m2B262BA9203F2F413FB4DB5421D404DFC083B704 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_set_DnsRefreshTimeout_m2B262BA9203F2F413FB4DB5421D404DFC083B704_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_set_DnsRefreshTimeout_m2B262BA9203F2F413FB4DB5421D404DFC083B704_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Boolean System.Net.Configuration.ServicePointManagerElement::get_EnableDnsRoundRobin()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ServicePointManagerElement_get_EnableDnsRoundRobin_m6A1AD9A4FE669AC18D9196910B524D2FFD6CC2C0 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_get_EnableDnsRoundRobin_m6A1AD9A4FE669AC18D9196910B524D2FFD6CC2C0_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_get_EnableDnsRoundRobin_m6A1AD9A4FE669AC18D9196910B524D2FFD6CC2C0_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.ServicePointManagerElement::set_EnableDnsRoundRobin(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ServicePointManagerElement_set_EnableDnsRoundRobin_m4E2674CD115E2089DDFA420AB61031435353D539 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_set_EnableDnsRoundRobin_m4E2674CD115E2089DDFA420AB61031435353D539_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_set_EnableDnsRoundRobin_m4E2674CD115E2089DDFA420AB61031435353D539_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Net.Security.EncryptionPolicy System.Net.Configuration.ServicePointManagerElement::get_EncryptionPolicy()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t ServicePointManagerElement_get_EncryptionPolicy_mF3805EB4253D2329369D5228A6D6FBA77FFBBDB3 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_get_EncryptionPolicy_mF3805EB4253D2329369D5228A6D6FBA77FFBBDB3_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	int32_t V_0 = 0;
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_get_EncryptionPolicy_mF3805EB4253D2329369D5228A6D6FBA77FFBBDB3_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.ServicePointManagerElement::set_EncryptionPolicy(System.Net.Security.EncryptionPolicy)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ServicePointManagerElement_set_EncryptionPolicy_m9FA825DC4CCF6D1B1A9D57DD68056D9665EAA2DA (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_set_EncryptionPolicy_m9FA825DC4CCF6D1B1A9D57DD68056D9665EAA2DA_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_set_EncryptionPolicy_m9FA825DC4CCF6D1B1A9D57DD68056D9665EAA2DA_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Boolean System.Net.Configuration.ServicePointManagerElement::get_Expect100Continue()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ServicePointManagerElement_get_Expect100Continue_m991850D531870E8360F07ADCF8C2F459584EC5AF (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_get_Expect100Continue_m991850D531870E8360F07ADCF8C2F459584EC5AF_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_get_Expect100Continue_m991850D531870E8360F07ADCF8C2F459584EC5AF_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.ServicePointManagerElement::set_Expect100Continue(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ServicePointManagerElement_set_Expect100Continue_mAE30C444FD6987C2389C5F89CF448D6F5EEBDBFD (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_set_Expect100Continue_mAE30C444FD6987C2389C5F89CF448D6F5EEBDBFD_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_set_Expect100Continue_mAE30C444FD6987C2389C5F89CF448D6F5EEBDBFD_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.ServicePointManagerElement::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* ServicePointManagerElement_get_Properties_m70469523AAD1A2C2E9D4F90DDA1BA619FCE68B58 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_get_Properties_m70469523AAD1A2C2E9D4F90DDA1BA619FCE68B58_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_get_Properties_m70469523AAD1A2C2E9D4F90DDA1BA619FCE68B58_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+// System.Boolean System.Net.Configuration.ServicePointManagerElement::get_UseNagleAlgorithm()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ServicePointManagerElement_get_UseNagleAlgorithm_mBA586932F9FDE593CBE69B8D67A6A6ED48338165 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_get_UseNagleAlgorithm_mBA586932F9FDE593CBE69B8D67A6A6ED48338165_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_get_UseNagleAlgorithm_mBA586932F9FDE593CBE69B8D67A6A6ED48338165_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.ServicePointManagerElement::set_UseNagleAlgorithm(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ServicePointManagerElement_set_UseNagleAlgorithm_m00139235D683F5DC58D2D954A7F39A0A4DD429E0 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_set_UseNagleAlgorithm_m00139235D683F5DC58D2D954A7F39A0A4DD429E0_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_set_UseNagleAlgorithm_m00139235D683F5DC58D2D954A7F39A0A4DD429E0_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.ServicePointManagerElement::PostDeserialize()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ServicePointManagerElement_PostDeserialize_m902512F2562E0505AD50E93F1FB8F0B97C2B6727 (ServicePointManagerElement_t98ED8374270537E77E57D014ECEE8B1A3A8EEFF2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ServicePointManagerElement_PostDeserialize_m902512F2562E0505AD50E93F1FB8F0B97C2B6727_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(ServicePointManagerElement_PostDeserialize_m902512F2562E0505AD50E93F1FB8F0B97C2B6727_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.SocketElement::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SocketElement__ctor_m4FB4C851F1BB20CED74C206EFB1BA9DDFBE024D2 (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SocketElement__ctor_m4FB4C851F1BB20CED74C206EFB1BA9DDFBE024D2_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SocketElement__ctor_m4FB4C851F1BB20CED74C206EFB1BA9DDFBE024D2_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Boolean System.Net.Configuration.SocketElement::get_AlwaysUseCompletionPortsForAccept()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SocketElement_get_AlwaysUseCompletionPortsForAccept_m462DFDB23E0D4C28280C3E92AF9ABE0D928F8FA8 (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SocketElement_get_AlwaysUseCompletionPortsForAccept_m462DFDB23E0D4C28280C3E92AF9ABE0D928F8FA8_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(SocketElement_get_AlwaysUseCompletionPortsForAccept_m462DFDB23E0D4C28280C3E92AF9ABE0D928F8FA8_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.SocketElement::set_AlwaysUseCompletionPortsForAccept(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SocketElement_set_AlwaysUseCompletionPortsForAccept_m2B8D5D91CCF934A2081701977A6C4149E7EA35E7 (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SocketElement_set_AlwaysUseCompletionPortsForAccept_m2B8D5D91CCF934A2081701977A6C4149E7EA35E7_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SocketElement_set_AlwaysUseCompletionPortsForAccept_m2B8D5D91CCF934A2081701977A6C4149E7EA35E7_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Boolean System.Net.Configuration.SocketElement::get_AlwaysUseCompletionPortsForConnect()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SocketElement_get_AlwaysUseCompletionPortsForConnect_m3F1B3E197EFAF517E0F2E6D4FCA0903E6DDAE47E (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SocketElement_get_AlwaysUseCompletionPortsForConnect_m3F1B3E197EFAF517E0F2E6D4FCA0903E6DDAE47E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	{
+		il2cpp_codegen_raise_profile_exception(SocketElement_get_AlwaysUseCompletionPortsForConnect_m3F1B3E197EFAF517E0F2E6D4FCA0903E6DDAE47E_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(bool));
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.SocketElement::set_AlwaysUseCompletionPortsForConnect(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SocketElement_set_AlwaysUseCompletionPortsForConnect_m617DAE11E817A18FFA4C0EB99F2181EDFD23B822 (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SocketElement_set_AlwaysUseCompletionPortsForConnect_m617DAE11E817A18FFA4C0EB99F2181EDFD23B822_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SocketElement_set_AlwaysUseCompletionPortsForConnect_m617DAE11E817A18FFA4C0EB99F2181EDFD23B822_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Net.Sockets.IPProtectionLevel System.Net.Configuration.SocketElement::get_IPProtectionLevel()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SocketElement_get_IPProtectionLevel_m4743BA5CCFCC0478CB43259DC834221E7E1C7F1A (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SocketElement_get_IPProtectionLevel_m4743BA5CCFCC0478CB43259DC834221E7E1C7F1A_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	int32_t V_0 = 0;
+	{
+		il2cpp_codegen_raise_profile_exception(SocketElement_get_IPProtectionLevel_m4743BA5CCFCC0478CB43259DC834221E7E1C7F1A_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.SocketElement::set_IPProtectionLevel(System.Net.Sockets.IPProtectionLevel)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SocketElement_set_IPProtectionLevel_mF34B2FCCAB45AAC1DDE6D5959AED616F864B190D (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SocketElement_set_IPProtectionLevel_mF34B2FCCAB45AAC1DDE6D5959AED616F864B190D_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SocketElement_set_IPProtectionLevel_mF34B2FCCAB45AAC1DDE6D5959AED616F864B190D_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.SocketElement::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* SocketElement_get_Properties_m8AF94DEEDA0EB4092F59FBDC361592E1B9EBDEC3 (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SocketElement_get_Properties_m8AF94DEEDA0EB4092F59FBDC361592E1B9EBDEC3_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SocketElement_get_Properties_m8AF94DEEDA0EB4092F59FBDC361592E1B9EBDEC3_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+// System.Void System.Net.Configuration.SocketElement::PostDeserialize()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SocketElement_PostDeserialize_m5312655E1CFAC9B0B24769CFFA11CE8DC5D6A366 (SocketElement_tDC83FCE3C280D8D590972F989292C30E2B7F6CC6* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SocketElement_PostDeserialize_m5312655E1CFAC9B0B24769CFFA11CE8DC5D6A366_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(SocketElement_PostDeserialize_m5312655E1CFAC9B0B24769CFFA11CE8DC5D6A366_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.WebProxyScriptElement::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebProxyScriptElement__ctor_mB613D71DE569317E40726CD8DB9A6ABA0A302821 (WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebProxyScriptElement__ctor_mB613D71DE569317E40726CD8DB9A6ABA0A302821_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebProxyScriptElement__ctor_mB613D71DE569317E40726CD8DB9A6ABA0A302821_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Int32 System.Net.Configuration.WebProxyScriptElement::get_AutoConfigUrlRetryInterval()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t WebProxyScriptElement_get_AutoConfigUrlRetryInterval_m29A4613754E6586CD3409A68C63266F3E42D810F (WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebProxyScriptElement_get_AutoConfigUrlRetryInterval_m29A4613754E6586CD3409A68C63266F3E42D810F_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	int32_t V_0 = 0;
+	{
+		il2cpp_codegen_raise_profile_exception(WebProxyScriptElement_get_AutoConfigUrlRetryInterval_m29A4613754E6586CD3409A68C63266F3E42D810F_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.WebProxyScriptElement::set_AutoConfigUrlRetryInterval(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebProxyScriptElement_set_AutoConfigUrlRetryInterval_m4974ADE6DBA722887617C6678F7862EAA85F5AC0 (WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebProxyScriptElement_set_AutoConfigUrlRetryInterval_m4974ADE6DBA722887617C6678F7862EAA85F5AC0_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebProxyScriptElement_set_AutoConfigUrlRetryInterval_m4974ADE6DBA722887617C6678F7862EAA85F5AC0_RuntimeMethod_var);
+		return;
+	}
+}
+// System.TimeSpan System.Net.Configuration.WebProxyScriptElement::get_DownloadTimeout()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A WebProxyScriptElement_get_DownloadTimeout_m4FA990F095B2CD306CD65205A492D5688959F899 (WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebProxyScriptElement_get_DownloadTimeout_m4FA990F095B2CD306CD65205A492D5688959F899_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		il2cpp_codegen_raise_profile_exception(WebProxyScriptElement_get_DownloadTimeout_m4FA990F095B2CD306CD65205A492D5688959F899_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A));
+		TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.WebProxyScriptElement::set_DownloadTimeout(System.TimeSpan)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebProxyScriptElement_set_DownloadTimeout_m9064C0685C3EA7CE727C7E823019D015C9065363 (WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167* __this, TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebProxyScriptElement_set_DownloadTimeout_m9064C0685C3EA7CE727C7E823019D015C9065363_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebProxyScriptElement_set_DownloadTimeout_m9064C0685C3EA7CE727C7E823019D015C9065363_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.WebProxyScriptElement::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* WebProxyScriptElement_get_Properties_mF5188225C0C1D64BC136465BB4B0E962FFE9240B (WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebProxyScriptElement_get_Properties_mF5188225C0C1D64BC136465BB4B0E962FFE9240B_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebProxyScriptElement_get_Properties_mF5188225C0C1D64BC136465BB4B0E962FFE9240B_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+// System.Void System.Net.Configuration.WebProxyScriptElement::PostDeserialize()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebProxyScriptElement_PostDeserialize_m42815AE19FB06043AFE775AA84B683B16B503246 (WebProxyScriptElement_t0C0E2338F7F42D5D386F5AE68FF7F870FA6E7167* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebProxyScriptElement_PostDeserialize_m42815AE19FB06043AFE775AA84B683B16B503246_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebProxyScriptElement_PostDeserialize_m42815AE19FB06043AFE775AA84B683B16B503246_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.WebUtilityElement::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebUtilityElement__ctor_m5456C0D33DA65AE83E07F4B06CD2F4922FB4187C (WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebUtilityElement__ctor_m5456C0D33DA65AE83E07F4B06CD2F4922FB4187C_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebUtilityElement__ctor_m5456C0D33DA65AE83E07F4B06CD2F4922FB4187C_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.WebUtilityElement::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* WebUtilityElement_get_Properties_m4D37738DB7CEE8FD598A3DBE137857166E16B20C (WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebUtilityElement_get_Properties_m4D37738DB7CEE8FD598A3DBE137857166E16B20C_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebUtilityElement_get_Properties_m4D37738DB7CEE8FD598A3DBE137857166E16B20C_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+// System.Net.Configuration.UnicodeDecodingConformance System.Net.Configuration.WebUtilityElement::get_UnicodeDecodingConformance()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t WebUtilityElement_get_UnicodeDecodingConformance_mBBCDC2E53F9945D3E1F454810DDF5D665BCA4532 (WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebUtilityElement_get_UnicodeDecodingConformance_mBBCDC2E53F9945D3E1F454810DDF5D665BCA4532_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	int32_t V_0 = 0;
+	{
+		il2cpp_codegen_raise_profile_exception(WebUtilityElement_get_UnicodeDecodingConformance_mBBCDC2E53F9945D3E1F454810DDF5D665BCA4532_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.WebUtilityElement::set_UnicodeDecodingConformance(System.Net.Configuration.UnicodeDecodingConformance)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebUtilityElement_set_UnicodeDecodingConformance_m8AE1BA3CC9E814C33D258DF3DDCFD364EFD893C3 (WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebUtilityElement_set_UnicodeDecodingConformance_m8AE1BA3CC9E814C33D258DF3DDCFD364EFD893C3_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebUtilityElement_set_UnicodeDecodingConformance_m8AE1BA3CC9E814C33D258DF3DDCFD364EFD893C3_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Net.Configuration.UnicodeEncodingConformance System.Net.Configuration.WebUtilityElement::get_UnicodeEncodingConformance()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t WebUtilityElement_get_UnicodeEncodingConformance_mBFEB047F95922D312EBBC42CC4D666272E179796 (WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebUtilityElement_get_UnicodeEncodingConformance_mBFEB047F95922D312EBBC42CC4D666272E179796_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	int32_t V_0 = 0;
+	{
+		il2cpp_codegen_raise_profile_exception(WebUtilityElement_get_UnicodeEncodingConformance_mBFEB047F95922D312EBBC42CC4D666272E179796_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.WebUtilityElement::set_UnicodeEncodingConformance(System.Net.Configuration.UnicodeEncodingConformance)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebUtilityElement_set_UnicodeEncodingConformance_m00E9B06E1D664543F83CDB2482B65ADE027D604C (WebUtilityElement_t6FA063D8F157F6F4F73ED8E5006213C44591C1E0* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebUtilityElement_set_UnicodeEncodingConformance_m00E9B06E1D664543F83CDB2482B65ADE027D604C_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebUtilityElement_set_UnicodeEncodingConformance_m00E9B06E1D664543F83CDB2482B65ADE027D604C_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.WindowsAuthenticationElement::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WindowsAuthenticationElement__ctor_mF5E036D7DF3EFB966AC0D44779A323A31B93D4A9 (WindowsAuthenticationElement_tC96EDD442C67FE43F7F3B3EDC9BAFB7C9009E13B* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WindowsAuthenticationElement__ctor_mF5E036D7DF3EFB966AC0D44779A323A31B93D4A9_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WindowsAuthenticationElement__ctor_mF5E036D7DF3EFB966AC0D44779A323A31B93D4A9_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Int32 System.Net.Configuration.WindowsAuthenticationElement::get_DefaultCredentialsHandleCacheSize()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t WindowsAuthenticationElement_get_DefaultCredentialsHandleCacheSize_m8EC1415284E9EC0E1EECC9EFFEA6FA85D5CBD256 (WindowsAuthenticationElement_tC96EDD442C67FE43F7F3B3EDC9BAFB7C9009E13B* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WindowsAuthenticationElement_get_DefaultCredentialsHandleCacheSize_m8EC1415284E9EC0E1EECC9EFFEA6FA85D5CBD256_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	int32_t V_0 = 0;
+	{
+		il2cpp_codegen_raise_profile_exception(WindowsAuthenticationElement_get_DefaultCredentialsHandleCacheSize_m8EC1415284E9EC0E1EECC9EFFEA6FA85D5CBD256_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.WindowsAuthenticationElement::set_DefaultCredentialsHandleCacheSize(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WindowsAuthenticationElement_set_DefaultCredentialsHandleCacheSize_mB0B1D1EF070852435E4FE672B19FD79FA22C6158 (WindowsAuthenticationElement_tC96EDD442C67FE43F7F3B3EDC9BAFB7C9009E13B* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WindowsAuthenticationElement_set_DefaultCredentialsHandleCacheSize_mB0B1D1EF070852435E4FE672B19FD79FA22C6158_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WindowsAuthenticationElement_set_DefaultCredentialsHandleCacheSize_mB0B1D1EF070852435E4FE672B19FD79FA22C6158_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.WindowsAuthenticationElement::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* WindowsAuthenticationElement_get_Properties_mB55BBFB85DF91400C178178E53FA090A5226A5A1 (WindowsAuthenticationElement_tC96EDD442C67FE43F7F3B3EDC9BAFB7C9009E13B* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WindowsAuthenticationElement_get_Properties_mB55BBFB85DF91400C178178E53FA090A5226A5A1_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WindowsAuthenticationElement_get_Properties_mB55BBFB85DF91400C178178E53FA090A5226A5A1_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.WebRequestModulesSection::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModulesSection__ctor_mF25CD80A5111A4F87B7FBF7663A3442470B97C0E (WebRequestModulesSection_t4099F9890D7851314C5528C577E4C51B36C97D00* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModulesSection__ctor_mF25CD80A5111A4F87B7FBF7663A3442470B97C0E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModulesSection__ctor_mF25CD80A5111A4F87B7FBF7663A3442470B97C0E_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.WebRequestModulesSection::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* WebRequestModulesSection_get_Properties_mBDBDED569E677717FB617CD36B94AE34BF4208F6 (WebRequestModulesSection_t4099F9890D7851314C5528C577E4C51B36C97D00* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModulesSection_get_Properties_mBDBDED569E677717FB617CD36B94AE34BF4208F6_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModulesSection_get_Properties_mBDBDED569E677717FB617CD36B94AE34BF4208F6_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+// System.Net.Configuration.WebRequestModuleElementCollection System.Net.Configuration.WebRequestModulesSection::get_WebRequestModules()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* WebRequestModulesSection_get_WebRequestModules_m220E91992D98AAE2DF929B9F22387E1A96CC0549 (WebRequestModulesSection_t4099F9890D7851314C5528C577E4C51B36C97D00* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModulesSection_get_WebRequestModules_m220E91992D98AAE2DF929B9F22387E1A96CC0549_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModulesSection_get_WebRequestModules_m220E91992D98AAE2DF929B9F22387E1A96CC0549_RuntimeMethod_var);
+		return (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463*)NULL;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModulesSection::InitializeDefault()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModulesSection_InitializeDefault_mE69CB230862709EEB90114E19D8465272EEA3CB7 (WebRequestModulesSection_t4099F9890D7851314C5528C577E4C51B36C97D00* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModulesSection_InitializeDefault_mE69CB230862709EEB90114E19D8465272EEA3CB7_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModulesSection_InitializeDefault_mE69CB230862709EEB90114E19D8465272EEA3CB7_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModulesSection::PostDeserialize()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModulesSection_PostDeserialize_m8DF8F4A7D4E016EA0539FC8DB42BD137CA3C0ED0 (WebRequestModulesSection_t4099F9890D7851314C5528C577E4C51B36C97D00* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModulesSection_PostDeserialize_m8DF8F4A7D4E016EA0539FC8DB42BD137CA3C0ED0_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModulesSection_PostDeserialize_m8DF8F4A7D4E016EA0539FC8DB42BD137CA3C0ED0_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.WebRequestModuleElementCollection::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElementCollection__ctor_m62C156D78336B2E37EA6F10D477FDEAE4161F99E (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection__ctor_m62C156D78336B2E37EA6F10D477FDEAE4161F99E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection__ctor_m62C156D78336B2E37EA6F10D477FDEAE4161F99E_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Net.Configuration.WebRequestModuleElement System.Net.Configuration.WebRequestModuleElementCollection::get_Item(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* WebRequestModuleElementCollection_get_Item_mE8ADB47358C80584A9A5C8D829CDDC0572BA28F8 (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, int32_t ___0_index, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_get_Item_mE8ADB47358C80584A9A5C8D829CDDC0572BA28F8_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_get_Item_mE8ADB47358C80584A9A5C8D829CDDC0572BA28F8_RuntimeMethod_var);
+		return (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD*)NULL;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElementCollection::set_Item(System.Int32,System.Net.Configuration.WebRequestModuleElement)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElementCollection_set_Item_mBFB801CF7ECCDC4C29FDFE98B69BDFC79D19B62C (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, int32_t ___0_index, WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* ___1_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_set_Item_mBFB801CF7ECCDC4C29FDFE98B69BDFC79D19B62C_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_set_Item_mBFB801CF7ECCDC4C29FDFE98B69BDFC79D19B62C_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Net.Configuration.WebRequestModuleElement System.Net.Configuration.WebRequestModuleElementCollection::get_Item(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* WebRequestModuleElementCollection_get_Item_m2E1FD419BDC43901B86273EAAE12C1192C0942F8 (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, String_t* ___0_name, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_get_Item_m2E1FD419BDC43901B86273EAAE12C1192C0942F8_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_get_Item_m2E1FD419BDC43901B86273EAAE12C1192C0942F8_RuntimeMethod_var);
+		return (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD*)NULL;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElementCollection::set_Item(System.String,System.Net.Configuration.WebRequestModuleElement)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElementCollection_set_Item_mC5E2D50F75EA6DEE744191B58334F92CEFB796BD (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, String_t* ___0_name, WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* ___1_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_set_Item_mC5E2D50F75EA6DEE744191B58334F92CEFB796BD_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_set_Item_mC5E2D50F75EA6DEE744191B58334F92CEFB796BD_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElementCollection::Add(System.Net.Configuration.WebRequestModuleElement)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElementCollection_Add_m1B266D818C6F5A8999F457BB34BA30305739477E (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* ___0_element, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_Add_m1B266D818C6F5A8999F457BB34BA30305739477E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_Add_m1B266D818C6F5A8999F457BB34BA30305739477E_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElementCollection::Clear()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElementCollection_Clear_m1405A4DF1AC009FEDABC6038C139BEF305CED96C (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_Clear_m1405A4DF1AC009FEDABC6038C139BEF305CED96C_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_Clear_m1405A4DF1AC009FEDABC6038C139BEF305CED96C_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationElement System.Net.Configuration.WebRequestModuleElementCollection::CreateNewElement()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E* WebRequestModuleElementCollection_CreateNewElement_m397F68DF0A36AB391A404123CF8CF510CC03825E (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_CreateNewElement_m397F68DF0A36AB391A404123CF8CF510CC03825E_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_CreateNewElement_m397F68DF0A36AB391A404123CF8CF510CC03825E_RuntimeMethod_var);
+		return (ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E*)NULL;
+	}
+}
+// System.Object System.Net.Configuration.WebRequestModuleElementCollection::GetElementKey(System.Configuration.ConfigurationElement)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* WebRequestModuleElementCollection_GetElementKey_m431F14EFB3211279E674EEF1BA70479934D48474 (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, ConfigurationElement_tAE3EE71C256825472831FFBB7F491275DFAF089E* ___0_element, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_GetElementKey_m431F14EFB3211279E674EEF1BA70479934D48474_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_GetElementKey_m431F14EFB3211279E674EEF1BA70479934D48474_RuntimeMethod_var);
+		return NULL;
+	}
+}
+// System.Int32 System.Net.Configuration.WebRequestModuleElementCollection::IndexOf(System.Net.Configuration.WebRequestModuleElement)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t WebRequestModuleElementCollection_IndexOf_mDA01842DD42B18BAA3497D46EA6A1BEFA0625D59 (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* ___0_element, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_IndexOf_mDA01842DD42B18BAA3497D46EA6A1BEFA0625D59_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	int32_t V_0 = 0;
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_IndexOf_mDA01842DD42B18BAA3497D46EA6A1BEFA0625D59_RuntimeMethod_var);
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElementCollection::Remove(System.Net.Configuration.WebRequestModuleElement)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElementCollection_Remove_m03E0DABEA39A2EDB435AE2BEC0D13AC83A2AC776 (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* ___0_element, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_Remove_m03E0DABEA39A2EDB435AE2BEC0D13AC83A2AC776_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_Remove_m03E0DABEA39A2EDB435AE2BEC0D13AC83A2AC776_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElementCollection::Remove(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElementCollection_Remove_m7DD3D64ED15E14AF0169514FC2565DDE46D8E312 (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, String_t* ___0_name, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_Remove_m7DD3D64ED15E14AF0169514FC2565DDE46D8E312_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_Remove_m7DD3D64ED15E14AF0169514FC2565DDE46D8E312_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElementCollection::RemoveAt(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElementCollection_RemoveAt_mCFD44DD167CEBA89E629FDB1C8159BF95ECCBF1D (WebRequestModuleElementCollection_t5979A19A48B822831C1D351EB2AA25058C7F7463* __this, int32_t ___0_index, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElementCollection_RemoveAt_mCFD44DD167CEBA89E629FDB1C8159BF95ECCBF1D_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElementCollection_RemoveAt_mCFD44DD167CEBA89E629FDB1C8159BF95ECCBF1D_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Net.Configuration.WebRequestModuleElement::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElement__ctor_m3A1CA3F314D9999776377B46359BBCA244C16E81 (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElement__ctor_m3A1CA3F314D9999776377B46359BBCA244C16E81_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElement__ctor_m3A1CA3F314D9999776377B46359BBCA244C16E81_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElement::.ctor(System.String,System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElement__ctor_m33C495B62224AD7B42D0C51A80BEDA02282C1EA6 (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* __this, String_t* ___0_prefix, String_t* ___1_type, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElement__ctor_m33C495B62224AD7B42D0C51A80BEDA02282C1EA6_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElement__ctor_m33C495B62224AD7B42D0C51A80BEDA02282C1EA6_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElement::.ctor(System.String,System.Type)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElement__ctor_m4324DC3F3C281570B8F38DE3B11CC48480B8E5E3 (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* __this, String_t* ___0_prefix, Type_t* ___1_type, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElement__ctor_m4324DC3F3C281570B8F38DE3B11CC48480B8E5E3_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElement__ctor_m4324DC3F3C281570B8F38DE3B11CC48480B8E5E3_RuntimeMethod_var);
+		return;
+	}
+}
+// System.String System.Net.Configuration.WebRequestModuleElement::get_Prefix()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* WebRequestModuleElement_get_Prefix_m9ABF6D76655D4A853F97AB945A06C0C989204225 (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElement_get_Prefix_m9ABF6D76655D4A853F97AB945A06C0C989204225_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElement_get_Prefix_m9ABF6D76655D4A853F97AB945A06C0C989204225_RuntimeMethod_var);
+		return (String_t*)NULL;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElement::set_Prefix(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElement_set_Prefix_mB0173D91DEDE335215B6D453443E854BE546B4BA (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* __this, String_t* ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElement_set_Prefix_mB0173D91DEDE335215B6D453443E854BE546B4BA_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElement_set_Prefix_mB0173D91DEDE335215B6D453443E854BE546B4BA_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Configuration.ConfigurationPropertyCollection System.Net.Configuration.WebRequestModuleElement::get_Properties()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93* WebRequestModuleElement_get_Properties_m784E006115FDEDCE5C8830D1571101F0E391B82C (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElement_get_Properties_m784E006115FDEDCE5C8830D1571101F0E391B82C_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElement_get_Properties_m784E006115FDEDCE5C8830D1571101F0E391B82C_RuntimeMethod_var);
+		return (ConfigurationPropertyCollection_t1DEB95D3283BB11A46B862E9D13710ED698B6C93*)NULL;
+	}
+}
+// System.Type System.Net.Configuration.WebRequestModuleElement::get_Type()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Type_t* WebRequestModuleElement_get_Type_m735160844499572763B638B083544BF83BFC76FB (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElement_get_Type_m735160844499572763B638B083544BF83BFC76FB_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElement_get_Type_m735160844499572763B638B083544BF83BFC76FB_RuntimeMethod_var);
+		return (Type_t*)NULL;
+	}
+}
+// System.Void System.Net.Configuration.WebRequestModuleElement::set_Type(System.Type)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WebRequestModuleElement_set_Type_m41DF196D0F67E8A331C6B9FF0DEC932023B777A0 (WebRequestModuleElement_t9856A4B94D713299F842F672DFD60557C38349FD* __this, Type_t* ___0_value, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebRequestModuleElement_set_Type_m41DF196D0F67E8A331C6B9FF0DEC932023B777A0_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(WebRequestModuleElement_set_Type_m41DF196D0F67E8A331C6B9FF0DEC932023B777A0_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.DiagnosticsConfigurationHandler::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DiagnosticsConfigurationHandler__ctor_mDFB0000E6218840F66D21BB6C9BF3F647CCBC5A3 (DiagnosticsConfigurationHandler_t0C4B611E2C6EA17B288C43070FAF65F96DCA96E7* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&DiagnosticsConfigurationHandler__ctor_mDFB0000E6218840F66D21BB6C9BF3F647CCBC5A3_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(DiagnosticsConfigurationHandler__ctor_mDFB0000E6218840F66D21BB6C9BF3F647CCBC5A3_RuntimeMethod_var);
+		return;
+	}
+}
+// System.Object System.Diagnostics.DiagnosticsConfigurationHandler::Create(System.Object,System.Object,System.Xml.XmlNode)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* DiagnosticsConfigurationHandler_Create_mF21B1CC68B87DE078690B2B493FCDC5F728CBAAB (DiagnosticsConfigurationHandler_t0C4B611E2C6EA17B288C43070FAF65F96DCA96E7* __this, RuntimeObject* ___0_parent, RuntimeObject* ___1_configContext, XmlNode_t3180B9B3D5C36CD58F5327D9F13458E3B3F030AF* ___2_section, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&DiagnosticsConfigurationHandler_Create_mF21B1CC68B87DE078690B2B493FCDC5F728CBAAB_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		il2cpp_codegen_raise_profile_exception(DiagnosticsConfigurationHandler_Create_mF21B1CC68B87DE078690B2B493FCDC5F728CBAAB_RuntimeMethod_var);
+		return NULL;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void Unity.ThrowStub::ThrowNotSupportedException()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ThrowStub_ThrowNotSupportedException_m14168B43936EF78B7B8AC08BD815254DAA1D9FA2 (const RuntimeMethod* method) 
+{
+	{
+		PlatformNotSupportedException_tD2BD7EB9278518AA5FE8AE75AD5D0D4298A4631A* L_0 = (PlatformNotSupportedException_tD2BD7EB9278518AA5FE8AE75AD5D0D4298A4631A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&PlatformNotSupportedException_tD2BD7EB9278518AA5FE8AE75AD5D0D4298A4631A_il2cpp_TypeInfo_var)));
+		NullCheck(L_0);
+		PlatformNotSupportedException__ctor_mD5DBE8E9A6FF4B75EF02671029C6D67A51EAFBD1(L_0, NULL);
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&ThrowStub_ThrowNotSupportedException_m14168B43936EF78B7B8AC08BD815254DAA1D9FA2_RuntimeMethod_var)));
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
